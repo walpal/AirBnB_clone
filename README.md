@@ -105,9 +105,10 @@ Usage: update < class_name> <_id> < attribute name > < attribute value >
 ```
 (hbnb) update User 1ae80232-28c6-47bb-a920-0dbcb8b8f2db first_name "Oscar"
 (hbnb) show User 1ae80232-28c6-47bb-a920-0dbcb8b8f2db
-[User] (1ae80232-28c6-47bb-a920-0dbcb8b8f2db) {'id': '1ae80232-28c6-47bb-a920-0dbcb8b8f2db', 'created_at': datetime.datetime(2023, 2, 10, 14, 5, 18, 255517), 'updated_at': datetime.datetime(2023, 2, 10, 14, 9, 25, 273537), 'first_name': 'Oscar'}
+[User] (1ae80232-28c6-47bb-a920-0dbcb8b8f2db) {'id': '1ae80232-28c6-47bb-a920-0dbcb8b8f2db', 'created_at': datetime.datetime(2023, 2, 10, 14, 5, 18, 255517), 'updated_at': datetime.datetime(2023, 2, 10, 14, 9, 25, 273537), 'first_name': 'Wale'}
 (hbnb)
 
 ```
-## Author
-- [Oscar Kamau](https://github.com/KamauDev-maker "Oscar Kamau")
+## Author(s)
+
+@walpal
